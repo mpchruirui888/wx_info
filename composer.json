@@ -1,0 +1,22 @@
+{
+    "name": "tdong/wx_info",
+    "description": "微信公众号+小程序获取openid和个人信息",
+    "type": "library",
+    "require-dev": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "天冬",
+            "email": "1549431732@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tdong\\": "src/"
+        }
+    }
+}
