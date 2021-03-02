@@ -67,5 +67,4 @@ class  WxMobile
         curl_close($ch);
         return $result;
     }
-
 }
